@@ -1,0 +1,13 @@
+{
+  "name": "how-to-make-openclaw-ts",
+  "version": "0.1.0",
+  "description": "TypeScript mirror examples for how-to-make-openclaw teaching project",
+  "scripts": {
+    "ts-node": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

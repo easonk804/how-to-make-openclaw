@@ -12,7 +12,9 @@
 - [x] TypeScript tooling (`tsconfig.json`, `package.json`)
 
 ## Next
-- [ ] Add optional real OpenClaw Gateway integration appendix
-- [ ] TypeScript mirrors for remaining chapters (03, 05-10)
-- [ ] Add chapter-by-chapter diagrams with more detailed event traces
-- [ ] Expand benchmarking and reliability simulation dataset
+- [x] Add optional real OpenClaw Gateway integration appendix
+- [x] TypeScript mirrors for remaining chapters (03, 05-10)
+- [x] Add chapter-by-chapter diagrams with more detailed event traces
+- [x] Expand benchmarking and reliability simulation dataset
+- [x] Add Mermaid-rendered versions for key chapter flows (in addition to ASCII)
+- [x] Add deployment troubleshooting screenshots guide for Windows common failures

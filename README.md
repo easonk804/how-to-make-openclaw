@@ -56,6 +56,13 @@ python chapters/01_gateway_event_loop/v3_event_lifecycle.py
 python final/openclaw_full.py
 ```
 
+## Docs Navigation
+
+- Architecture mapping: `docs/final_architecture.md`
+- Chapter visual diagrams: `docs/chapter_diagrams.md`
+- Expected output contracts: `docs/expected_outputs.md`
+- Practical deployment guide: `docs/deployment_guide.md`
+
 ## Suggested Study Order
 
 1. Complete chapter README and run v1.
